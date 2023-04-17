@@ -1,4 +1,5 @@
 # Inteligencia-Artificial
-INTEGRANTES:
--Hillary Kassandra Huaman Sanchez
--Christopher Fabrizio Javier Ope Rosado
+> ## INTEGRANTES:
+>
+> 1.    Hillary Kassandra Huaman Sanchez.
+> 2.    Christopher Fabrizio Javier Ope Rosado.
