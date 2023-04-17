@@ -1,0 +1,3 @@
+C:/Users/Hillary Kassandra/Downloads/primer/cmake-build-debug/CMakeFiles/primer.dir
+C:/Users/Hillary Kassandra/Downloads/primer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hillary Kassandra/Downloads/primer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
